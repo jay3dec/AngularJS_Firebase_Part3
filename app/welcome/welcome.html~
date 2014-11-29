@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
+
+    <title>AngularJS & Firebase Web App</title>
+
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    
+  </head>
+
+  <body>
+
+   
+   <div class="container">
+      <div class="page-header">
+        <h1>AngularJS & Firebase App</h1>
+      </div>
+      <p class="lead">Welcome home {{username}} !!</p>
+      
+    </div> 
+
+    <footer class="footer">
+      <div class="container">
+        <p class="text-muted"></p>
+      </div>
+    </footer>
+
+</body></html>
