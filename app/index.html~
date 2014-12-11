@@ -24,6 +24,7 @@
   <script src="app.js"></script>
   <script src="home/home.js"></script>
   <script src="register/register.js"></script>
+  <script src="welcome/welcome.js"></script>
   <script src="components/version/version.js"></script>
   <script src="components/version/version-directive.js"></script>
   <script src="components/version/interpolate-filter.js"></script>
